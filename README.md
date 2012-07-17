@@ -17,6 +17,7 @@ This comes down to the following steps:
 ```
 cd path/to/projects
 git clone git://github.com/ensemble/SampleApplication.git
+cd SampleApplication
 curl -s http://getcomposer.org/installer | php
 php composer.phar install
 ```
